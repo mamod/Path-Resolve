@@ -26,10 +26,10 @@ METHODS
     normalize(p)
         Normalize a string path, taking care of '..' and '.' parts.
 
-    path.join([path1][, path2][, ...])
+    join([path1][, path2][, ...])
         Join all arguments together and normalize the resulting path.
 
-    path.resolve([from ...], to)
+    resolve([from ...], to)
         Resolves "to" to an absolute path.
 
     isAbsolute(path)

@@ -539,11 +539,11 @@ L<api documentation|https://nodejs.org/api/path.html> all methods are supported
 
 Normalize a string path, taking care of '..' and '.' parts.
 
-=item path.join([path1][, path2][, ...])
+=item join([path1][, path2][, ...])
 
 Join all arguments together and normalize the resulting path.
 
-=item path.resolve([from ...], to)
+=item resolve([from ...], to)
 
 Resolves C<to> to an absolute path.
 
