@@ -508,6 +508,9 @@ __END__
 
 Path::Resolve - node.js path module in perl
 
+=for html
+<a href="https://travis-ci.org/mamod/Path-Resolve"><img src="https://travis-ci.org/mamod/Path-Resolve.svg?branch=master"></a>
+
 =head1 SYNOPSIS
 
     use Path::Resolve;
