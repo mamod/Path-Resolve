@@ -1,0 +1,8 @@
+Changes
+lib/Path/Resolve.pm
+Makefile.PL
+MANIFEST			This list of files
+t/both.t
+t/Parse.t
+t/POSIX.t
+t/windows.t
