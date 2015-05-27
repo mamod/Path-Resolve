@@ -4,7 +4,7 @@ use strict;
 use Carp;
 use Data::Dumper;
 
-our $VERSION = 0.0.1;
+our $VERSION = '0.0.2';
 
 my $isWindows = $^O eq 'MSWin32';
 
